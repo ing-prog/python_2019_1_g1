@@ -2,5 +2,5 @@
 Дмитрий Ситников: Школа 1538, пятница 17:00
 
 Полезные ссылки:
-https://docs.python.org/3/library/index.html - Документация по python
-https://pythoner.name/documentation - Часть переведенной документации python
+h1 https://docs.python.org/3/library/index.html - Документация по python
+h1 https://pythoner.name/documentation - Часть переведенной документации python
