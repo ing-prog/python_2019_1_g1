@@ -1,3 +1,3 @@
 <p>Задание 1:</p>
 <p>Нужно доделать clicker так, чтоб при нажатии на кнопку менялся цвет фона</p>
-![png1](https://github.com/ing-prog/python_2019_1_g1/blob/master/urok6/png1.jpg)
+![png1](https://user-images.githubusercontent.com/48746048/57590015-67fd1f80-7531-11e9-97f5-2516534589d4.jpg)
